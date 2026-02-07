@@ -32,7 +32,7 @@ This project implements and tests a simple moving average (MA) crossover trading
 
 ## Results
 
-[Add your key finding here after you have the results - e.g., "The strategy achieved varying results across different stocks, with some outperforming buy-and-hold while others underperformed."]
+The strategy achieved varying results across different stocks, with some outperforming buy-and-hold while others underperformed.
 
 ## Files
 
@@ -56,7 +56,7 @@ This project implements and tests a simple moving average (MA) crossover trading
 
 ## About
 
-Created by [Your Name] as part of exploring quantitative finance and algorithmic trading. I'm a high school student interested in the intersection of computer science, mathematics, and finance.
+Created by Arihant as part of exploring quantitative finance and algorithmic trading. I'm a high school student interested in the intersection of computer science, mathematics, and finance.
 
 ## License
 
