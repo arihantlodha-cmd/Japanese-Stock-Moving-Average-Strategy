@@ -64,3 +64,58 @@ Created by Arihant as part of exploring quantitative finance and algorithmic tra
 ## License
 
 This project is for educational purposes only. Not financial advice.
+
+---
+
+## 🚀 How to Run This Project
+
+### Prerequisites
+- Python 3.x installed
+- Jupyter Notebook
+
+### Installation
+
+1. Clone this repository:
+```bash
+git clone https://github.com/arihantlodha-cmd/Japanese-Stock-Moving-Average-Strategy.git
+```
+
+2. Navigate to the directory:
+```bash
+cd Japanese-Stock-Moving-Average-Strategy
+```
+
+3. Install required packages:
+```bash
+pip install pandas numpy matplotlib yfinance jupyter
+```
+
+4. Launch Jupyter Notebook:
+```bash
+jupyter notebook
+```
+
+5. Open `moving-average-strategy.ipynb` and run all cells
+
+---
+
+## 📸 Sample Output
+
+*Screenshots coming soon - visualizations of trading signals and performance comparison*
+
+---
+
+## 📝 License
+
+MIT License - feel free to use this code for educational purposes.
+
+---
+
+## 🙏 Acknowledgments
+
+- Financial data provided by Yahoo Finance (via yfinance library)
+- Inspired by quantitative trading research and my interest in algorithmic decision-making
+
+---
+
+**Questions or suggestions? Feel free to open an issue or reach out!**
