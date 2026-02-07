@@ -1,6 +1,9 @@
-# Japanese Stock Trading Strategy
+# 📈 Japanese Stock Trading Strategy
 
-Algorithmic trading backtester testing moving average crossover strategy on Tokyo Stock Exchange stocks.
+> Algorithmic trading backtester testing moving average crossover strategies on Tokyo Stock Exchange stocks
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Complete-success)
 
 ## Overview
 
