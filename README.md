@@ -67,7 +67,7 @@ This project is for educational purposes only. Not financial advice.
 
 ---
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 ### Prerequisites
 - Python 3.x installed
@@ -99,19 +99,19 @@ jupyter notebook
 
 ---
 
-## 📸 Sample Output
+## Sample Output
 
-*Screenshots coming soon - visualizations of trading signals and performance comparison*
-
+![Trading Strategy Visualization](strategy-visualization.png)
+*Moving average crossover signals on Toyota stock (2020-2024)*
 ---
 
-## 📝 License
+## License
 
 MIT License - feel free to use this code for educational purposes.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Financial data provided by Yahoo Finance (via yfinance library)
 - Inspired by quantitative trading research and my interest in algorithmic decision-making
